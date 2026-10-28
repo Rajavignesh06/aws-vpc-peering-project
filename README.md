@@ -35,10 +35,10 @@ Test Results
 The connectivity tests confirmed communication from the Bastion Host to both application instances using their private IP addresses.
 
 Conclusion
-*Successfully established and tested private network connectivity between two AWS VPCs using VPC Peering.
+**Successfully established and tested private network connectivity between two AWS VPCs using VPC Peering.
 
 Technologies
-*AWS | Amazon EC2 | VPC | VPC Peering | Networking | Linux | SSH
+**AWS | Amazon EC2 | VPC | VPC Peering | Networking | Linux | SSH
 
 Project Report
 For screenshots of the project implementation and test results, please refer to the attached PDF report:
