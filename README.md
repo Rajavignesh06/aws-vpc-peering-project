@@ -43,6 +43,7 @@ Technologies
 AWS | Amazon EC2 | VPC | VPC Peering | Networking | Linux | SSH
 
 Project Report
+
 For screenshots of the project implementation and test results, please refer to the attached PDF report:
 **`EWB-Courses-AWS-VPC-Peering-Project.pdf`**
 
